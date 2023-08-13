@@ -1,0 +1,6 @@
+{
+	"port": 3000,
+	"cipherAlgorithm": "HS256",
+	"SALT_WORK_FACTOR": 8,
+	"key": "TOP_SECRET"
+}
