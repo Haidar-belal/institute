@@ -17,5 +17,3 @@ This guide to setup project configuration
 -   copy `development.json.back` then rename like `NODE_ENV` value to work
 
 ### Enjoy
-
-> If you have any suggestions inform the project manager.
